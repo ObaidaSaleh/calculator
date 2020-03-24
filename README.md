@@ -6,6 +6,8 @@ Calculator ships regularly with new features and bug fixes. You can get the late
 
 [![Build Status](https://dev.azure.com/ms/calculator/_apis/build/status/Calculator-CI?branchName=master)](https://dev.azure.com/ms/calculator/_build/latest?definitionId=57&branchName=master)
 
+[![Build Status](https://dev.azure.com/salehoba/Parts%20Unlimited/_apis/build/status/ObaidaSaleh.calculator?branchName=master)](https://dev.azure.com/salehoba/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
+
   ![Calculator Screenshot](docs/Images/CalculatorScreenshot.png)
 
 ## Features
