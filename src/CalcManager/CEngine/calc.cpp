@@ -1,5 +1,5 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License.
+// Licensed under the MIT License. h 
 
 #include <cassert>
 #include "Header Files/CalcEngine.h"
